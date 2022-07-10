@@ -1,0 +1,11 @@
+/Users/bsoghigian/dev/learning-yew/learning_yew/target/wasm32-unknown-unknown/debug/deps/gloo_file-8657f2f75a9599bb.rmeta: /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/lib.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/blob.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_list.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_reader.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/object_url.rs
+
+/Users/bsoghigian/dev/learning-yew/learning_yew/target/wasm32-unknown-unknown/debug/deps/libgloo_file-8657f2f75a9599bb.rlib: /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/lib.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/blob.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_list.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_reader.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/object_url.rs
+
+/Users/bsoghigian/dev/learning-yew/learning_yew/target/wasm32-unknown-unknown/debug/deps/gloo_file-8657f2f75a9599bb.d: /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/lib.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/blob.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_list.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_reader.rs /Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/object_url.rs
+
+/Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/lib.rs:
+/Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/blob.rs:
+/Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_list.rs:
+/Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_reader.rs:
+/Users/bsoghigian/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/object_url.rs:
